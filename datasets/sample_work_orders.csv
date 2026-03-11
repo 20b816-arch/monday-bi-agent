@@ -1,0 +1,4 @@
+order_id,client,sector,revenue,status
+101,ABC Energy,Energy,50000,Completed
+102,XYZ Infra,Construction,40000,Completed
+103,GreenBuild,Infrastructure,70000,Ongoing

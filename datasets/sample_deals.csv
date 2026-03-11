@@ -1,0 +1,4 @@
+deal_id,client,sector,deal_value,stage
+1,ABC Energy,Energy,120000,Negotiation
+2,XYZ Infra,Construction,90000,Lead
+3,SolarGrid,Energy,200000,Closed
